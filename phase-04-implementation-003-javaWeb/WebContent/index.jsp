@@ -40,8 +40,8 @@
 		$('#poem-txt').fadeOut('slow');
 		
 		$('#poem-txt').animate({
-			bottom : '100px',
-			right : '100px'
+			bottom : '300px',
+			right : '300px'
 		}, 18000);
 		
 		$('#waiting')[0].play();
