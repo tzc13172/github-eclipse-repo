@@ -40,7 +40,7 @@
 		$('#poem-txt').fadeOut('slow');
 		
 		$('#poem-txt').animate({
-			bottom : '300px',
+			bottom : '200px',
 			right : '300px'
 		}, 18000);
 		

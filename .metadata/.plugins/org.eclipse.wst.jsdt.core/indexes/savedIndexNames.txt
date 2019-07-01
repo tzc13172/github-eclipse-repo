@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\SE001\Eclipse-WS\github-eclipse-ws\user\adm-A\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3477133445.index
+3685986651.index
+2536310235.index
+1900653577.index
+1315262939.index
+3640706936.index
+3073721131.index
